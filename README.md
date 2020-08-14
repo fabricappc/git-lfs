@@ -167,6 +167,24 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for info on working on Git LFS and
 sending patches. Related projects are listed on the [Implementations wiki
 page](https://github.com/git-lfs/git-lfs/wiki/Implementations).
 
+## Security
+
+*Please do not report security vulnerabilities through public GitHub issues.*
+
+If you believe you have found a security vulnerability in the Git LFS
+client software, including any of the Git LFS Go modules such as
+[gitobj](https://github.com/git-lfs/gitobj) or
+[pktline](https://github.com/git-lfs/pktline), please report it
+via the GitHub [HackerOne](https://hackerone.com/github) site.
+
+Please note that because Git LFS client is a public open-source project
+and not an exclusive offering from GitHub, the GitHub Bug Bounty program
+does not apply.
+
+Nevertheless, using HackerOne to report security issues is the
+safest way to do so, and will ensure they are triaged by members of
+the Git LFS core team.
+
 ## Core Team
 
 These are the humans that form the Git LFS core team, which runs the project.
